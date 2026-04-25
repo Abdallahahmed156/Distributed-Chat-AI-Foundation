@@ -27,3 +27,9 @@ This project is a high-performance **Distributed Systems** foundation designed t
 
 - [x]  Youssef Farmawy  
 - [x]  Abdallah Ahmed  
+
+
+##  Work Distribution
+
+- [x] 👨‍💻 Youssef Farmawy — server , client  
+- [x] 👨‍💻 Abdallah Ahmed — GUI , config and edit server and client 
