@@ -23,3 +23,7 @@ This project is a high-performance **Distributed Systems** foundation designed t
 - [ ] Support for end-to-end encrypted AI responses.
 - [ ] Distributed database integration for chat history.
 
+## Team
+
+- [x]  Youssef Farmawy  
+- [x]  Abdallah Ahmed  
